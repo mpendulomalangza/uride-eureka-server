@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: uride-eureka-server
+#server:
+#  servlet:
+#    context-path: /uride-eureka-server
+#  port: 8888
